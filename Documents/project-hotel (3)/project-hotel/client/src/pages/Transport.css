@@ -1,0 +1,33 @@
+.transport-info-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 10px;
+  height: 100%;
+}
+
+.booking-form-card {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+.vehicle-option {
+  border: 2px solid #dee2e6;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.vehicle-option:hover {
+  border-color: var(--gold);
+}
+
+.vehicle-option.selected {
+  border-color: var(--gold);
+  background-color: rgba(197, 164, 122, 0.1);
+}
+
+.vehicle-icon {
+  font-size: 2rem;
+  display: block;
+}
