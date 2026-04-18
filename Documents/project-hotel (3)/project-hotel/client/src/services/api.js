@@ -1,4 +1,4 @@
-// client/src/services/api.js - Using Fetch API instead of axios
+// client/src/services/api.js
 
 const API_BASE_URL = 'http://localhost:5000/api';
 
