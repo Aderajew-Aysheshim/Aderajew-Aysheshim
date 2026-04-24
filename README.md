@@ -42,9 +42,6 @@ MySQL | PostgreSQL
 RAG | LLMs | Qdrant | Vector Databases
 Tools
 Git | GitHub | Ubuntu | VS Code | WebStorm
-GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aderajew-Aysheshim\&show_icons=true)
 📫 Contact me
     https://aderajew-ay.vercel.app/
 📧 [aderajew.aysheshim@aastustudent.edu.et](mailto:aderajew.aysheshim@aastustudent.edu.et)
